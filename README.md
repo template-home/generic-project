@@ -1,4 +1,4 @@
-# Github project
+# Github project [![icon](docs/assets/github-project-icon.png)](docs/assets/github-project-icon.png)
 
 A template that apply to all Github projects.
 
