@@ -11,21 +11,28 @@ Overwiew: A paragraf expalining the purpose of this project repo
 
 Preview: Add some graphic that capturres the heart of your users. It can be a gif animation or a picture.
 	
-`optional` features / faq
+### Features `(optional)`
+
+### FAQ `(optional)`
  
-## Instalation
+## Instalation `(optional)`
 
 ## Usage
 
 ## Contribute
 	TODO (whishlist)
 
-## Credits (Acknowledgements)
+## Credits 
 
-- [iconella](https://www.iconfinder.com/iconella) who shares this beautiful icons as Common Creative
+(Acknowledgements)
 
-## Related (See also)
+- [iconella](https://www.iconfinder.com/iconella) organization icon
+- [bartekjacak](https://www.iconfinder.com/bartekjacak) project icon
 
-## Suport (sponsor/Donate)
+## See also `(optional)`
+
+## Sponsor `(optional)`
+
+(Support/Donate)
 
 ## License
