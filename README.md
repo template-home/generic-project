@@ -2,12 +2,14 @@
 
 A template that apply to all Github projects.
 
-Badges (one line)
-Index (one line)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## About 
 
 Overwiew: A paragraf expalining the purpose of this project repo
+
+Badges (one line)
+Index (one line)
 
 Preview: Add some graphic that capturres the heart of your users. It can be a gif animation or a picture.
 	
