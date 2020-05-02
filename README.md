@@ -1,4 +1,4 @@
-# Github Project :octocat:
+# Generic Project 📄
 
 A template that apply to all Github projects.
 
