@@ -69,6 +69,8 @@ Here are some related links that might be interestant:
 
 - [Unicode Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html#1f36d) - The complete list of emojis that can be copied and pasted on your readme (😍 😎 👽 👻 🙈 👀)
 
+- [Shields IO](https://shields.io/) - Creates badges to show meaningful information about the project 👉 ![GitHub](https://img.shields.io/github/license/template-home/generic-project)
+
 ## License
 
 This project is licensed [Creative Commons Zero v1.0 Universal](LICENSE) so you can use it anyway you want. 
