@@ -12,7 +12,9 @@ It uses format ideas from several great github projects, like using badges to co
 	
 ## Features `(optional)`
 
-Some projects might have several resources (documents, images, code...) so it is important to present this in a simple list. This template contains the following features:
+Some projects might have several resources (documents, images, code...) so it is important to present this in a simple list. 
+
+This template contains the following features:
 
 - This `readme` file that serves as simple and padronized way of explain your projects.
 
@@ -24,7 +26,7 @@ Every public project can be reused in different ways, so its nice to explain to 
 
 ### Project
 
-- Select the `Use this template` button that appears on the project menu
+- Select the `Use this template` button that appears on the project menu or use [this link](https://github.com/template-home/generic-project/generate).
 
 - Give your new project a name, a short description and choose if it will be public or private. You can change all this later.
 
@@ -38,7 +40,18 @@ Every public project can be reused in different ways, so its nice to explain to 
 
 
 ## Contribute
-	TODO (whishlist)
+
+There are several ways of helping any project:
+
+- Using the project
+
+- Sharing with your friends
+
+- Creating questions or alerting about some problem or bug trhough the issues function
+
+- Making a fork and creating pull requests
+
+> Contributions are always welcome! 🎉 
 
 ## Credits 
 
