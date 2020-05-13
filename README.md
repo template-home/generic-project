@@ -6,11 +6,9 @@ A template that apply to all Github projects.
 
 ## About 
 
-Overwiew: A paragraf expalining the purpose of this project repo
-Badges (one line)
-Index (one line)
+Behind every github repository there is an idea that should be shared but sometimes is not easy to explain it. This repository serves as a super generic template so you can explain your ideas.
 
-Preview: Add some graphic that capturres the heart of your users. It can be a gif animation or a picture.
+It uses format ideas from several great github projects, like using badges to comunicate project status, the use of single line indexes, images, animations and emoticons!
 	
 ## Features `(optional)`
 
