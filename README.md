@@ -12,11 +12,30 @@ It uses format ideas from several great github projects, like using badges to co
 	
 ## Features `(optional)`
 
-## FAQ `(optional)`
- 
-## Instalation `(optional)`
+Some projects might have several resources (documents, images, code...) so it is important to present this in a simple list. This template contains the following features:
+
+- This `readme` file that serves as simple and padronized way of explain your projects.
+
+- A `LICENSE` file example to explain others how they can use the project.
 
 ## Usage
+
+Every public project can be reused in different ways, so its nice to explain to the others. This project can be used in two ways: to create a new [project](#project) and to create new templates.
+
+### Project
+
+- Select the `Use this template` button that appears on the project menu
+
+- Give your new project a name, a short description and choose if it will be public or private. You can change all this later.
+
+### Template
+
+- Follow the same steps for creating a new project
+
+- Access the settings menu on the new project
+
+- Check the option `Template repository` that appears below the repository name
+
 
 ## Contribute
 	TODO (whishlist)
