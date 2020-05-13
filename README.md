@@ -70,3 +70,9 @@ Here are some related links that might be interestant:
 - [Unicode Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html#1f36d) - The complete list of emojis that can be copied and pasted on your readme (😍 😎 👽 👻 🙈 👀)
 
 ## License
+
+This project is licensed [Creative Commons Zero v1.0 Universal](LICENSE) so you can use it anyway you want. 
+
+Using this template you are free tho change the license on your own project to any license you want.
+
+Visit <https://choosealicense.com/> and learn how to choose the right license to your project.
