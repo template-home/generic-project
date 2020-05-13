@@ -59,24 +59,14 @@ Thanks to the following contributors:
 
 - [iconella](https://www.iconfinder.com/iconella) organization icon
 
-## See also `(optional)`
+## See also
 
 Here are some related links that might be interestant: 
 
-- [Standard Readme](https://github.com/RichardLitt/standard-readme)
+- [Make a README](https://www.makeareadme.com/) - Explains why is so important a good readme file
 
-- [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - Explains how to use the Markdown language to format text, create headers and links
 
-- [Make a README](https://github.com/dguo/make-a-readme)
-
-- [Awesome README](https://github.com/matiassingers/awesome-readme)
-
-https://github.com/marketplace/actions/readable-readme
-
-https://github.com/marketplace/actions/contribute-list
-
-## Sponsor `(optional)`
-
-(Support/Donate)
+- [Unicode Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html#1f36d) - The complete list of emojis that can be copied and pasted on your readme (😍 😎 👽 👻 🙈 👀)
 
 ## License
