@@ -51,24 +51,26 @@ There are several ways of helping any project:
 
 - Making a fork and creating pull requests
 
-> Contributions are always welcome! 🎉 
-
 ## Credits 
 
 All projects are a colletive work and its crucial to give credit to all contributors even the indirect ones.
 
-A good way of doing it is listing the names with links to their profiles on github or other plataforms. This way they can be found by hiring people. 
+Thanks to the following contributors:
 
 - [iconella](https://www.iconfinder.com/iconella) organization icon
 
 ## See also `(optional)`
 
-Your project probally doest fit all needs, so is good to reference on other projects or other extra material that could be important. 
+Here are some related links that might be interestant: 
 
 - [Standard Readme](https://github.com/RichardLitt/standard-readme)
+
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
+
 - [Make a README](https://github.com/dguo/make-a-readme)
+
 - [Awesome README](https://github.com/matiassingers/awesome-readme)
+
 https://github.com/marketplace/actions/readable-readme
 
 https://github.com/marketplace/actions/contribute-list
