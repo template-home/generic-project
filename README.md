@@ -10,7 +10,7 @@ Behind every github repository there is an idea that should be shared but someti
 
 It uses format ideas from several great github projects, like using badges to comunicate project status, the use of single line indexes, images, animations and emoticons!
 	
-## Features `(optional)`
+## Features
 
 Some projects might have several resources (documents, images, code...) so it is important to present this in a simple list. 
 
